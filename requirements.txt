@@ -1,0 +1,14 @@
+Sphinx
+sphinxcontrib-katex
+sphinxcontrib-proof
+sphinxcontrib-bibtex
+sphinxcontrib-seqdiag
+sphinxcontrib-blockdiag
+sphinxcontrib-actdiag
+sphinxcontrib-nwdiag
+sphinxcontrib-tikz
+sphinxcontrib-texfigure
+pybtex
+rst2pdf
+jinja2
+stanford-theme
